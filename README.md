@@ -1,0 +1,1 @@
+The RunQuad.java is the part 1 of the activity and the RunQuad(1).java is the second(2) part of the activity. I couldn't commit the second part in the same name because GitHub doesn't allow two main class that has the same name.
