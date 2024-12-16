@@ -1,3 +1,9 @@
+/*
+Cubia, Richard L.
+BSIT-307
+
+This is the part 2 of the activity
+*/
 import java.util.Scanner;
 
 class Quadrilateral {
